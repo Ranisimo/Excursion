@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.link {
+    color: turquoise;
+}
